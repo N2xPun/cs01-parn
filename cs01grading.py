@@ -24,4 +24,4 @@ elif (score <= 49 and score >= 0):
 else:
     print("Your score is invalid.")
 
-print("Your grade is ", grade, ".")
+print("Your grade is " + str(grade) + ".")
