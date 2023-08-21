@@ -1,6 +1,6 @@
 n=0
 while 1:
-    userIn = int(input())
+    userIn = int(input("in: "))
     if(userIn == 0):
         print(n)
         break
